@@ -188,6 +188,13 @@ p {
     margin: 0;
 }
 
+.titles-faculty {
+    font-size: xx-large;
+    font-family: 'Teko', sans-serif;
+    margin-bottom: 10px;
+    text-align:left;
+} 
+
 .footer {
     background-color: #1c1c7f;
     text-align: center;
