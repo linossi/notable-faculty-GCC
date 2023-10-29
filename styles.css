@@ -50,8 +50,8 @@ nav a {
 }
 
 .image {
-    width: 100px; /* Adjust the width of the image as needed */
-    margin-right: 20px; /* Add space between the image and text */
+    width: 100px; /* width of the image */
+    margin-right: 10px; /* Add space between the image and text */
 }
 
 p {
