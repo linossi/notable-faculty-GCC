@@ -31,7 +31,15 @@ nav ul li {
 nav a {
     text-decoration: none; /* Remove underlines from links */
     color: #fff; /* Set link text color */
+    
 }
+
+nav a: hover { 
+    background-color: #ddd;
+    color: black;
+}
+
+
 .beholder {
     position: relative !important;
 }
