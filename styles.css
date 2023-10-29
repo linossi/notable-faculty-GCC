@@ -59,6 +59,6 @@ p {
 }
 .custom-text {
     font-family: 'Teko', sans-serif;
-    font-size: 18px; 
+    font-size: larger; 
     color: #333; 
 }
