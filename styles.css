@@ -88,6 +88,10 @@ h2 {
     padding-left:20px;
 }
 
+.image-hover{
+    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+  }
+
 p {
     margin: 0;
 }
