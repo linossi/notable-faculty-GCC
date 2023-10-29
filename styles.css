@@ -70,9 +70,8 @@ h2 {
 
 .image-container {
     display: flex-start;
-    flex-direction:column;
+    flex-direction:row;
     margin-right:10px;
-    text-align:center;
     font-size:larger;
     
 }
