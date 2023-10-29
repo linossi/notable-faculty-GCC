@@ -127,7 +127,7 @@ nav a {
 
 
 .beholder {
-    position:relative;
+    position:-ms-page;
 }
 .mascotbilde {
     height: 250px;
