@@ -11,7 +11,6 @@ body {
   padding: 20px 10px;
   font-family: 'Teko', sans-serif;
   width:100%;
-  position:sticky;
 
 }
 
@@ -98,6 +97,7 @@ nav a {
     width: 100%;
     background-color: #555;
     overflow: auto;
+    position:sticky;
   }
   
   /* Navigation links */
