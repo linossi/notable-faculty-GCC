@@ -42,3 +42,14 @@ nav a {
     letter-spacing: 2px;
     padding: left 10px;
 }
+
+.container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.image {
+    width: 100px;
+    margin-right: 20px;
+}
