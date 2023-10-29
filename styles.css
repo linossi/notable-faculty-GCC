@@ -12,7 +12,7 @@ header {
 
 
 h1 {
-    margin: 0; /* Remove default margin for h1 */
+    margin: 0; 
 }
 
 nav ul {
@@ -32,7 +32,7 @@ nav a {
     position: relative !important;
 }
 .mascotbilde {
-    height: 300px;
+    height: 250px;
     width: 100%;
 }
 
