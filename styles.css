@@ -58,6 +58,8 @@ nav a {
     flex-direction: column;
     align-items: center;
     margin-right: 20px;
+    text-align:left;
+    
 }
 
 h2 {
@@ -74,7 +76,7 @@ h2 {
     margin-right:10px;
     text-align:center;
     font-size:larger;
-    
+
 
 }
 
