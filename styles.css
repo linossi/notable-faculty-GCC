@@ -63,8 +63,8 @@ p {
     color: #333; 
 }
 
-.title-DP {
-    font-family: 'Teko', sans-serif;
-    font-size: x-large; 
-    color: #333; 
+h2 {
+    font-size: 24px; /* Adjust the font size for the title */
+    font-weight: bold; /* Add bold style to the title if needed */
+    margin-bottom: 10px; /* Add space between the title and the image/text */
 }
