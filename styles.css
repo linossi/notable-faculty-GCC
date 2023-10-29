@@ -12,9 +12,12 @@ header {
 
 h1 {
     margin: 0; 
-    text-decoration: none;
-    color: #fff;
 }
+
+h1 a {
+    text-decoration: none; /* Remove underlines from links */
+    color: #fff; /* Set link text color */
+}   
 
 nav ul {
     list-style-type: none; /* Remove default list styling */
