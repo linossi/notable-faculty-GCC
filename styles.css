@@ -49,34 +49,27 @@ nav a {
 }
 
 .container {
+    display: flex;
     margin-bottom: 20px;
 }
 
-.image {
-    width: 200px; /* width of the image */
-    margin-right: 10px; /* Add space between the image and text */
-}
-
-p {
-    flex: 1; /* This makes the text fill the remaining space beside the image */
-}
-.custom-text {
-    font-family: 'Teko', sans-serif;
-    font-size: larger; 
-    color: #333; 
+.image-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
 }
 
 h2 {
-    font-size: 24px; /* Adjust the font size for the title */
-    font-weight: bold; /* Add bold style to the title if needed */
-    margin-bottom: 10px; /* Add space between the title and the image/text */
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
 }
 
-.image-text-container {
-    display: flex;
-    align-items:center;
+.image {
+    width: 200px;
 }
 
 p {
-    margin: 0; 
+    margin: 0;
 }
