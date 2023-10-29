@@ -31,13 +31,13 @@ body {
 }
 
 .header a:hover {
-  background-color: #ddd;
+  background-color: #1c1c7f;
   color: black;
 }
 
 .header a.active {
-  background-color: dodgerblue;
-  color: white;
+  background-color: rgb(220, 220, 220);
+  color: rgb(0, 0, 0);
 }
 
 .header-right {
