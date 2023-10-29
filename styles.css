@@ -66,6 +66,11 @@ h2 {
     margin-bottom: 10px;
 }
 
+.image-container {
+    display: flex;
+    align-items: flex-start;
+}
+
 .image {
     width: 200px;
 }
