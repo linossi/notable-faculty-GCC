@@ -78,6 +78,7 @@ h2 {
 
 .image {
     width: 200px;
+    float:left;
 }
 
 p {
