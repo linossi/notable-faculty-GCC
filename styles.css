@@ -54,7 +54,7 @@ nav a {
 }
 
 .image-wrapper {
-    display: flex;
+    display: flex-start;
     flex-direction: column;
     align-items: center;
     margin-right: 20px;
@@ -70,8 +70,11 @@ h2 {
 
 .image-container {
     display: flex;
-    align-items: flex-start;
-    padding-right:10px;
+    flex-direction:column;
+    align-items: center;
+    margin-right:10px;
+    text-align:center;
+
 }
 
 .image {
