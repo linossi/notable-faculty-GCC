@@ -10,7 +10,6 @@ header {
     padding-left: 5%;
 }
 
-
 h1 {
     margin: 0; 
 }
@@ -42,22 +41,4 @@ nav a {
     color: #ffffff00;
     letter-spacing: 2px;
     padding: left 10px;
-}
-
-  .sitatbox1 {
-    border-style: hidden;
-    background-color:#1c1c7f;
-    border: width 5px;
-    border-radius: 15px;
-    text-align: center;
-    padding: 20px;
-    width:70%;
-    justify-content: center;
-    font-size:xx-large;
-    font-family: 'Teko', sans-serif;
-    color: #ffffff !important;
-}
-
-.rounded-box p {
-    color: #ffffff; /*text*/
 }
