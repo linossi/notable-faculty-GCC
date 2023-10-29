@@ -71,6 +71,7 @@ h2 {
 .image-container {
     display: flex;
     align-items: flex-start;
+    padding-right:10px;
 }
 
 .image {
