@@ -58,7 +58,7 @@ p {
     flex: 1; /* This makes the text fill the remaining space beside the image */
 }
 .laybourne-text {
-    font-family: "Helvetica", sans-serif; 
+    font-family: 'Teko', sans-serif;
     font-size: 18px; 
     color: #333; 
 }
