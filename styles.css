@@ -125,16 +125,6 @@ nav a {
       text-align: left; /* If you want the text to be left-aligned on small screens */
     }
   }
-  .sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-  }
-  
-  .sticky + .content {
-    padding-top: 60px;
-  }
-
 
 .beholder {
     position:-ms-page;
