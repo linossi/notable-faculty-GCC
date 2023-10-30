@@ -195,6 +195,15 @@ p {
     text-align:left;
 } 
 
+/* Define CSS styles for the thick horizontal line */
+hr.thick-line {
+    border: none;
+    background-color: #000;
+    height: 4px;
+    margin: 20px 0;
+  }
+  
+
 .footer {
     background-color: #1c1c7f;
     text-align: center;
