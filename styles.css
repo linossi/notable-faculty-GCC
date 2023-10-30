@@ -207,7 +207,7 @@ p {
 /* Define CSS styles for the thick horizontal line */
 hr.thick-line {
     border: none;
-    background-color:#b0b0dd;
+    background-color:#1c1c7f;
     height: 30px;
     margin: 20px 0;
   }
