@@ -247,13 +247,11 @@ hr.thick-line {
 .button {
     background-color: #ffffff; /* Button background color */
     color: #1c1c7f; /* Button text color */
-    padding: 5px 10px; /* Adjust as needed */
+    padding: 20px 30px; /* Adjust as needed */
     border: none;
     cursor: pointer;
     margin-right:50%;
     border-radius: 12px;
-    width:100px;
-    height:65px;
     font-size:large;
     font-family: 'Teko', sans-serif;
 }
