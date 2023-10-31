@@ -209,11 +209,19 @@ hr.thick-line {
     padding: 10px;
 }
 
-.links {
-    color:#fff;
-    text-decoration:none;
-    font-size:xx-large;
+/* Style the links within the list */
+.links li a {
+    color: #0077b5; /* Change the link color to your preference */
+    text-decoration: none; /* Remove underlines */
+    font-weight: bold; /* Make the text bold */
 }
+
+/* Style the links on hover */
+.links li a:hover {
+    text-decoration: underline; /* Add underlines on hover */
+    color: #ff6600; /* Change the link color on hover to your preference */
+}
+
 
 .sources {
     color:#fff;
