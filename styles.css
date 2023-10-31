@@ -252,6 +252,7 @@ hr.thick-line {
     border: none;
     cursor: pointer;
     margin-right:65px;
+    margin-left:65px;
     border-radius: 12px;
     font-size:large;
     font-family: 'Teko', sans-serif;
