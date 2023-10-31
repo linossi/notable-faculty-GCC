@@ -209,12 +209,7 @@ hr.thick-line {
     padding: 10px;
 }
 
-.footer li a:hover {
-    text-decoration: underline;
-}
-
-.footer li a {
-    color: #fff;
-    text-decoration: none;
+.links {
+    color:#fff
 }
 
