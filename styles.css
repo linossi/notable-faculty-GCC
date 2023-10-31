@@ -213,6 +213,13 @@ hr.thick-line {
     padding: 10px;
 }
 
+.sources {
+    font-size: xx-large;
+    font-family: 'Teko', sans-serif;
+    margin-bottom: 10px;
+    text-align:left;
+    color: #fff;
+}
 /* Style the list of links */
 .links {
     list-style: none;
