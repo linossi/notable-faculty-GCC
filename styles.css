@@ -63,9 +63,7 @@ body {
     margin: 10px 0; /* Adjust margin to control the space above and below the line */
     width: 100%; /* Set the width to 100% to make it span the container */
     height: 2px;
-
   }
-
 
 
 h1 {
@@ -91,6 +89,15 @@ nav a {
     color: #fff; /* Set link text color */
     
 }
+
+.white-line{
+    border: none; 
+    border-top: 1px solid #ffffff; 
+    margin: 10px 0; 
+    width: 100%;
+    height: 4px;
+  }
+
 
 /* Style the navigation menu */
 .navbar {
