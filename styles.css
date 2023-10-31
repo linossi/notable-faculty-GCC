@@ -214,3 +214,9 @@ hr.thick-line {
     text-decoration:0;
 }
 
+.sources {
+    color:#fff
+    font-family: 'Teko', sans-serif;
+    margin-bottom: 10px;
+    text-align:left;
+}
