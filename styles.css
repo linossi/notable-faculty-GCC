@@ -219,6 +219,7 @@ hr.thick-line {
     margin-bottom: 10px;
     text-align:left;
     color: #fff;
+    display:flex-start;
 }
 /* Style the list of links */
 .links {
