@@ -206,6 +206,7 @@ hr.thick-line {
   /* Style the footer container */
 .footer {
     display: flex;
+    flex-direction:column;
     justify-content: space-between;
     align-items: center;
     background-color:#1c1c7f;
