@@ -208,7 +208,7 @@ hr.thick-line {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #333;
+    background-color:#1c1c7f;
     color: #fff;
     padding: 10px;
 }
@@ -225,7 +225,7 @@ hr.thick-line {
 }
 
 .links li a {
-    color: #0077b5; /* Link color */
+    color: #ffffff; /* Link color */
     text-decoration: none;
     font-weight: bold;
 }
