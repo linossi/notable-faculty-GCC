@@ -210,6 +210,7 @@ hr.thick-line {
 }
 
 .links {
-    color:#fff
+    color:#fff;
+    text-decoration:0;
 }
 
