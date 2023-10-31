@@ -208,3 +208,13 @@ hr.thick-line {
     text-align: start;
     padding: 10px;
   }
+
+  footer li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Style the links on hover */
+footer li a:hover {
+    text-decoration: underline;
+}
