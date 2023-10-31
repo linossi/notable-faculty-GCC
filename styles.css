@@ -242,6 +242,7 @@ hr.thick-line {
     padding: 5px 10px; /* Adjust as needed */
     border: none;
     cursor: pointer;
+    margin-right:50px;
 }
 
 /* Adjust the spacing between the button and the links */
