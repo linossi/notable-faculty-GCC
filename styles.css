@@ -207,12 +207,13 @@ hr.thick-line {
     background-color: #1c1c7f;
     text-align: start;
     padding: 10px;
-  }
+}
 
-  footer li a:hover {
+.footer li a:hover {
     text-decoration: underline;
-  }
-  footer li a {
+}
+
+.footer li a {
     color: #fff;
     text-decoration: none;
 }
