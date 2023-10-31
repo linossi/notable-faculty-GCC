@@ -249,7 +249,7 @@ hr.thick-line {
     padding: 5px 10px; /* Adjust as needed */
     border: none;
     cursor: pointer;
-    margin-right:50px;
+    margin-right:50%;
     border-radius: 12px;
     width:50px;
     height:40px;
