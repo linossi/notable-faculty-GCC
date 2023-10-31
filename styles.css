@@ -202,45 +202,50 @@ hr.thick-line {
     margin: 20px 0;
   }
   
-
+  
+  /* Style the footer container */
 .footer {
-    background-color: #1c1c7f;
-    text-align: start;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
     padding: 10px;
 }
 
-/* Style the links within the list */
-.links li a {
-    color: #0077b5; /* Change the link color to your preference */
-    text-decoration: none; /* Remove underlines */
-    font-weight: bold; /* Make the text bold */
+/* Style the list of links */
+.links {
+    list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
-/* Style the links on hover */
+.links li {
+    margin: 5px 0;
+}
+
+.links li a {
+    color: #0077b5; /* Link color */
+    text-decoration: none;
+    font-weight: bold;
+}
+
 .links li a:hover {
     text-decoration: underline; /* Add underlines on hover */
-    color: #ff6600; /* Change the link color on hover to your preference */
+    color: #ff6600; /* Change the link color on hover */
 }
 
-
-.sources {
-    color:#fff;
-    font-family: 'Teko', sans-serif;
-    margin-bottom: 10px;
-    text-align:left;
-    font-size:x-large;
-}
-
+/* Style the button */
 .button {
-    background-color: #04AA6D;
+    background-color: #ff6600; /* Button background color */
+    color: #fff; /* Button text color */
+    padding: 5px 10px; /* Adjust as needed */
     border: none;
-    color: white;
-    padding: 20px;
-    text-align: center;
-    text-decoration: none;
-    font-size: 16px;
-    margin: 4px 2px;
-    float:left;
-    border-radius:12px
-  }
-  
+    cursor: pointer;
+}
+
+/* Adjust the spacing between the button and the links */
+.footer-content {
+    display: flex;
+    align-items: center;
+}
