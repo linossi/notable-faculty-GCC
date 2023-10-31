@@ -233,6 +233,6 @@ hr.thick-line {
     font-size: 16px;
     margin: 4px 2px;
     float:left;
+    border-radius:12px
   }
   
-  .button4 {border-radius: 12px;}
