@@ -236,6 +236,7 @@ hr.thick-line {
     color: #ffffff; /* Link color */
     text-decoration: none;
     font-weight: bold;
+    margin-left: 20px;
 }
 
 .links li a:hover {
