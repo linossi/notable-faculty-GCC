@@ -167,8 +167,8 @@ h2 {
     float:left;
     border-width:7px;
     border-color:#1c1c7f;
-    border-style: none none solid none;
-    outline-style: none none solid none;
+    border-style: none none none solid;
+    outline-style: none none none solid;
     outline-width:3px;
     outline-color:#313198;
     padding-right:20px;
