@@ -186,9 +186,6 @@ h2 {
     padding-left:20px;
 }
 
-.image-hover{
-    transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
-  }
 
 p {
     margin: 0;
@@ -201,7 +198,7 @@ p {
     text-align:left;
 } 
 
-/* Define CSS styles for the thick horizontal line */
+
 hr.thick-line {
     border: none;
     background-color:#1c1c7f;
@@ -210,7 +207,7 @@ hr.thick-line {
   }
   
   
-  /* Style the footer container */
+ 
 .footer {
     display: flex;
     flex-direction:column;
@@ -228,9 +225,9 @@ hr.thick-line {
     color: #fff;
     display:flex-start;
 }
-/* Style the list of links */
+
 .links {
-    list-style: none;
+    list-style: none; /* fjerner punkt i listen*/
     padding: 0;
     margin: 0;
 }
@@ -240,22 +237,22 @@ hr.thick-line {
 }
 
 .links li a {
-    color: #ffffff; /* Link color */
+    color: #ffffff; /* Link farge */
     text-decoration: none;
     font-weight: bold;
     margin-left: 20px;
 }
 
 .links li a:hover {
-    text-decoration: underline; /* Add underlines on hover */
-    color: #ff6600; /* Change the link color on hover */
+    text-decoration: underline; /* legger til linjer under teksten når musa er over den */
+    color: #ff6600; /* bytter farge på teksten når musa er over den */
 }
 
 /* Style the button */
 .button {
-    background-color: #ffffff; /* Button background color */
-    color: #1c1c7f; /* Button text color */
-    padding: 20px 30px; /* Adjust as needed */
+    background-color: #ffffff; /* Knappens bakgrunnsfarge*/
+    color: #1c1c7f; /* Knappens tekst farge */
+    padding: 20px 30px; /* størrelse */
     border: none;
     cursor: pointer;
     margin-right:65px;
@@ -265,7 +262,7 @@ hr.thick-line {
     font-family: 'Teko', sans-serif;
 }
 
-/* Adjust the spacing between the button and the links */
+
 .footer-content {
     display: flex;
     align-items: center;
