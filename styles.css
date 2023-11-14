@@ -176,7 +176,7 @@ h2 {
     float:left;
     border-width:5px;
     border-color:#1c1c7f;
-    border-style:solid;
+    border-style: none none solid none;
 }
 
 
