@@ -178,7 +178,7 @@ h2 {
   left: 0;
   right: 0;
   height: 10px; /* Height of the additional border */
-  border-top: 2px solid red; /* Additional border color and style */
+  border-top: 2px none none none solid red; /* Additional border color and style */
 }
 
 p {
