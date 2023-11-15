@@ -165,9 +165,9 @@ h2 {
 .image {
     width: 200px;
     float:left;
-    border-width:7px;
-    border-color:#1c1c7f blue;
-    border-style: none none none groove;
+    border-width:9px;
+    border-color:#1c1c7f;
+    border-style: none none none solid;
     padding-right:20px;
 }
 
