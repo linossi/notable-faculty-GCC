@@ -253,3 +253,8 @@ hr.thick-line {
     display: flex;
     align-items: center;
 }
+
+.button a {
+  text-decoration: none;
+  color: #1c1c7f;
+}
